@@ -1,5 +1,3 @@
-
-
 def start():
     print("A ray of sunlight beams across your eyes."
           " You are instantly comforted by the rigorous rocking of the waves.")
