@@ -21,4 +21,5 @@ def facial_features():
         print("White hair. Many have asked if you've dyed it.")
     else:
         print("As if your hair colour would make you any special.")
-    print("Face: Short and angular snout, a single triangular ear, and a small black nose. As Vulper as they come.")
+    print("Face: The grizzled look of someone that's gone through too much shit. If the sketch were any more"
+          "detailed, you'd see scars and a landscape of wrinkles unbefit of someone as young as you.")
